@@ -1,0 +1,7 @@
+Содержимое файлов идентичное
+
+3 коммита
+тексты коммитов:
+heat added
+Merge remote-tracking branch 'refs/remotes/YandexLyceum/hat'
+Merge remote-tracking branch 'refs/remotes/origin/boots_buttons'
